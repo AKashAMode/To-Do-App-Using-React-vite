@@ -1,0 +1,12 @@
+
+
+.main-container{
+    background-image: url("./assets/brown-wooden.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+    min-height: 100vh;
+    height: auto;
+ 
+}
